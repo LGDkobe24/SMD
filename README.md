@@ -1,0 +1,2 @@
+# SMD
+Stochastic Meta Descent 
